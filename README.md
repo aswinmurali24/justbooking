@@ -1,4 +1,4 @@
-# justbooking
+# Justbooking
 Created a basic booking website using HTML, PHP and SQL to book IT training sessions offered by a university for their students 
 A university offers a range of IT training sessions during welcome week that students can book in advance. The sessions cover topics such as Word Processing, Spreadsheets, etc. To keep the system simple, we assume that the students do not have computer accounts yet but instead enter a few personal details when they book a training session. Sessions on a particular topic are typically offered more than once during welcome week. Every time a session on a particular topic runs it can only accommodate a certain number of participants; in the following we will call this the capacity of the session. We keep the capacity of sessions small. Initially, the number of places available on a specific session is equal to its capacity.
 The web-based application should allow a student to
